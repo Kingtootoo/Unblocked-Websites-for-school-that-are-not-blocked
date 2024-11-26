@@ -1,0 +1,441 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://glorydays.nard.ca/
+Subject: glorydays.nard.ca
+Date: Tue, 26 Nov 2024 20:42:44 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--cqfBKsUffeCAX1DRVLrIJXjotXIgXNcogZ6kIo1vlo----"
+
+
+------MultipartBoundary--cqfBKsUffeCAX1DRVLrIJXjotXIgXNcogZ6kIo1vlo----
+Content-Type: text/html
+Content-ID: <frame-8D7CFDC86604802B050E93B76DAFC895@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://glorydays.nard.ca/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><title>glorydays.nard.ca</title><meta =
+name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"><link =
+rel=3D"shortcut icon" href=3D"https://glorydays.nard.ca/favicon.png"><link =
+href=3D"https://glorydays.nard.ca/static/css/main.fa2171d9.css" rel=3D"styl=
+esheet"></head><body><div id=3D"root"></div></body></html>
+------MultipartBoundary--cqfBKsUffeCAX1DRVLrIJXjotXIgXNcogZ6kIo1vlo----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://glorydays.nard.ca/static/css/main.fa2171d9.css
+
+@charset "utf-8";
+
+.addressbar-939630 { align-items: center; border: none; border-radius: 30px=
+; display: flex; flex: 1 1 0%; flex-flow: row; height: 32px; min-width: 0px=
+; }
+
+.addressbar-btn-25084:hover { background-color: rgb(220, 222, 224); }
+
+.addressbar-btn-25084:active { background-color: rgb(190, 192, 194); }
+
+.addressbar-urlbar-304581 { background-color: transparent; border: none; fl=
+ex: 1 1 0%; font-size: 16px; min-width: 0px; outline: none; overflow: hidde=
+n; padding-right: 5px; text-overflow: ellipsis; white-space: nowrap; }
+
+.addressbar-urlbar-304581::selection { background-color: rgb(156, 195, 245)=
+; height: 28px; }
+
+.addressbar-grey-334836 { color: grey; }
+
+.addressbar-menu-item-251165 { align-items: center; display: flex; flex-dir=
+ection: row; padding: 0px 15px; user-select: none; }
+
+.addressbar-menu-item-icon-wrapper-312706 { margin-right: 20px; width: 20px=
+; }
+
+.addressbar-menu-item-icon-785336 { fill: var(--browser-icon-color); height=
+: 20px; width: 20px; }
+
+.addressbar-menu-item-251165 p { margin: 12px 0px; }
+
+.addressbar-menu-764917 { align-self: flex-start; background-color: rgb(255=
+, 255, 255); border: none; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.=
+2) 0px 0px 20px 2px; display: flex; flex: 1 1 0%; flex-direction: column; o=
+utline: none; overflow: hidden; padding-bottom: 10px; position: relative; t=
+op: -4px; white-space: nowrap; z-index: 100; }
+
+.addressbar-menu-764917 input { background-color: transparent; border: none=
+; font-size: 16px; height: 30px; outline: none; width: 100%; }
+
+.rhnewtab-516861 { text-align: center; }
+
+.rhnewtab-header-953763 { display: grid; grid-template-columns: 1fr auto 1f=
+r; text-align: left; }
+
+.rhnewtab-header-stp-513272 { border-width: 0px 2px 2px 0px; border-right-s=
+tyle: solid; border-bottom-style: solid; border-right-color: rgb(0, 0, 0); =
+border-bottom-color: rgb(0, 0, 0); border-image: initial; border-bottom-rig=
+ht-radius: 20px; border-left-style: initial; border-left-color: initial; bo=
+rder-top-style: initial; border-top-color: initial; display: inline-block; =
+padding-bottom: 20px; padding-right: 20px; }
+
+.rhnewtab-header-stp-513272 input { font-family: monospace, monospace; widt=
+h: 290px; }
+
+.rhnewtab-header-stp-err-359089 { color: red; margin-top: 0px; }
+
+.rhnewtab-header-stp-513272 > div > div { margin-bottom: 2px; }
+
+.rhnewtab-header-ad-958208 { align-self: flex-start; background-color: rgba=
+(0, 0, 0, 0.08); border-radius: 20px; display: inline-block; margin: 10px; =
+padding: 10px; }
+
+.rhnewtab-header-953763 > img { margin-left: auto; margin-right: auto; widt=
+h: 300px; }
+
+.rhnewtab-msg-619363 { font-size: 25px; }
+
+.rhnewtab-oldui-container-717729 { align-items: center; display: flex; flex=
+-direction: column; margin-bottom: 20px; margin-top: 20px; }
+
+.rhnewtab-oldui-msg-683934 { font-size: 20px; margin-bottom: 5px; }
+
+.rhnewtab-oldui-container-717729 input { border: 1px solid var(--gray-borde=
+r); border-radius: 40px; box-sizing: border-box; font-size: 20px; max-width=
+: 800px; min-width: 500px; outline: none; padding: 5px 15px; width: 100%; }
+
+.rhnewtab-oldui-btn-container-891538 { margin-top: 20px; }
+
+.rhnewtab-oldui-btn-container-891538 span { border: 1px solid var(--gray-bo=
+rder); border-radius: 50px; cursor: pointer; margin: 0px 10px; padding: 5px=
+ 10px; transition: 0.2s; user-select: none; }
+
+.rhnewtab-oldui-btn-container-891538 span:hover { background-color: rgb(189=
+, 189, 189); }
+
+.rhnewtab-discord-595159 { color: var(--gray-text); font-size: 20px; margin=
+-left: auto; margin-right: auto; }
+
+.rhnewtab-version-container-16670 { bottom: 20px; color: rgba(0, 0, 0, 0.7)=
+; font-size: 0.8em; position: absolute; right: 20px; text-align: right; }
+
+.rhnewtab-version-container-16670 p { margin: 0px; }
+
+.rhnewtab-version-number-635480 { font-weight: 700; }
+
+.rhpages-990464 { overflow-y: auto; padding: 10px; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+.rhsettings-216409 h2 { margin-bottom: 5px; }
+
+.rhsettings-216409 h3 { font-size: 16px; font-style: italic; margin-bottom:=
+ 10px; margin-top: 5px; }
+
+.rhsettings-section-13472 { margin-bottom: 40px; margin-top: 5px; padding-l=
+eft: 10px; }
+
+.rhsettings-216409 p { margin: 5px 0px; }
+
+.rhsettings-216409 button { background-color: rgb(240, 240, 240); border: 1=
+px solid var(--gray-border); border-radius: 50px; margin: 0px 10px; outline=
+: none; padding: 3px 10px; }
+
+.rhsettings-216409 input { border: 1px solid rgb(146, 146, 146); border-rad=
+ius: 5px; outline: none; padding: 2px 5px; }
+
+.rhsettings-216409 button:hover { background-color: rgb(245, 245, 245); }
+
+.rhsettings-216409 button:active { background-color: rgb(204, 204, 204); }
+
+.rhsettings-httpproxy-section input { margin-bottom: 5px; width: 350px; }
+
+.rhsettings-httpproxy-section input:focus { border: 1.5px solid rgb(75, 75,=
+ 75); }
+
+.rhsettings-titlefavicon-setting-13806 { align-items: center; display: flex=
+; flex-direction: row; }
+
+.rhsettings-titlefavicon-250156 img, .rhsettings-titlefavicon-250156 input =
+{ margin: 3px 10px; }
+
+.rhsettings-titlefavicon-250156 img { border: 1px solid rgb(105, 105, 105);=
+ border-radius: 4px; height: 28px; width: 28px; }
+
+.rhsettings-titlefavicon-setting-presets-817939 img { cursor: pointer; }
+
+.browser-bar-815468 { align-items: center; background-color: rgb(255, 255, =
+255); border-bottom: 1px solid rgb(212, 212, 212); display: flex; flex-flow=
+: row; height: 36px; padding: 4px 15px; }
+
+.browser-bar-btn-79904 { fill: var(--browser-icon-color); stroke: var(--bro=
+wser-icon-color); border-radius: 50%; height: 20px; padding: 6px; transitio=
+n: 0.2s; width: 20px; }
+
+.browser-bar-btn-enabled:hover { background-color: rgb(238, 238, 238); }
+
+.browser-bar-btn-enabled:active { background-color: rgb(216, 216, 216); }
+
+.browser-bar-btn-disabled { fill: rgb(186, 188, 190); stroke: rgb(186, 188,=
+ 190); }
+
+.context-menu-842354 { background-color: rgb(255, 255, 255); box-shadow: rg=
+ba(0, 0, 0, 0.4) 0px 0px 20px 2px; outline: none; padding: 5px 0px; positio=
+n: absolute; user-select: none; word-break: break-all; z-index: 1000; }
+
+.context-menu-items-669012, .context-menu-items-669012 span { margin: 0px; =
+}
+
+.context-menu-items-disabled { color: rgba(0, 0, 0, 0.5); }
+
+.context-menu-items-enabled:hover { background-color: rgba(0, 0, 0, 0.3); }
+
+.browser-tab-250341 { display: flex; flex: 1 1 0%; flex-direction: column; =
+height: 100%; overflow-y: hidden; }
+
+.browser-tab-content-550720 { flex: 1 1 0%; }
+
+.browser-tab-content-iframe { border: none; height: 100%; width: 100%; }
+
+.chrome-tabs-279174 { background: rgb(222, 225, 230); border-radius: 5px 5p=
+x 0px 0px; box-sizing: border-box; font-family: -apple-system, BlinkMacSyst=
+emFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoj=
+i", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 12px; height: 46px; ove=
+rflow: hidden; padding: 8px 3px 4px; position: relative; }
+
+.chrome-tabs-279174 * { box-sizing: inherit; font: inherit; }
+
+.chrome-tabs-279174 .chrome-tabs-content-566441 { height: 100%; position: r=
+elative; width: 100%; }
+
+.chrome-tabs-279174 .chrome-tab { border: 0px; height: 36px; left: 0px; mar=
+gin: 0px; pointer-events: none; position: absolute; width: 240px; z-index: =
+1; }
+
+.chrome-tabs-279174 .chrome-tab, .chrome-tabs-279174 .chrome-tab * { cursor=
+: default; user-select: none; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-dividers { bottom: 7px; left: v=
+ar(--tab-content-margin); position: absolute; right: var(--tab-content-marg=
+in); top: 7px; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-dividers, .chrome-tabs-279174 .=
+chrome-tab .chrome-tab-dividers::after, .chrome-tabs-279174 .chrome-tab .ch=
+rome-tab-dividers::before { pointer-events: none; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-dividers::after, .chrome-tabs-2=
+79174 .chrome-tab .chrome-tab-dividers::before { background: rgb(169, 173, =
+176); bottom: 0px; content: ""; display: block; opacity: 1; position: absol=
+ute; top: 0px; transition: opacity 0.2s; width: 1px; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-dividers::before { left: 0px; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-dividers::after { right: 0px; }
+
+.chrome-tabs-279174 .chrome-tab:first-child .chrome-tab-dividers::before, .=
+chrome-tabs-279174 .chrome-tab:last-child .chrome-tab-dividers::after { opa=
+city: 0; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-background { height: 100%; left=
+: 0px; overflow: hidden; pointer-events: none; position: absolute; top: 0px=
+; width: 100%; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-background > svg { height: 100%=
+; width: 100%; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-background > svg .chrome-tab-ge=
+ometry { fill: rgb(244, 245, 246); }
+
+.chrome-tabs-279174 .chrome-tab[active] { z-index: 5; }
+
+.chrome-tabs-279174 .chrome-tab[active] .chrome-tab-background > svg .chrom=
+e-tab-geometry { fill: rgb(255, 255, 255); }
+
+.chrome-tabs-279174 .chrome-tab:not([active]) .chrome-tab-background { opac=
+ity: 0; transition: opacity 0.2s; }
+
+@media (hover: hover) {
+  .chrome-tabs-279174 .chrome-tab:not([active]):hover { z-index: 2; }
+  .chrome-tabs-279174 .chrome-tab:not([active]):hover .chrome-tab-backgroun=
+d { opacity: 1; }
+}
+
+.chrome-tabs-279174 .chrome-tab.chrome-tab-was-just-added { animation: 0.12=
+s ease-in-out 0s 1 normal forwards running chrome-tab-was-just-added; top: =
+10px; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-content { border-top-left-radiu=
+s: 8px; border-top-right-radius: 8px; bottom: 0px; display: flex; left: var=
+(--tab-content-margin); overflow: hidden; padding: 9px 8px; pointer-events:=
+ all; position: absolute; right: var(--tab-content-margin); top: 0px; }
+
+.chrome-tabs-279174 .chrome-tab[is-mini] .chrome-tab-content { padding-left=
+: 2px; padding-right: 2px; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-favicon { background-size: 16px=
+; flex-grow: 0; flex-shrink: 0; height: 16px; margin-left: 4px; position: r=
+elative; width: 16px; }
+
+.chrome-tabs-279174 .chrome-tab[is-small] .chrome-tab-favicon { margin-left=
+: 0px; }
+
+.chrome-tabs-279174 .chrome-tab[is-mini]:not([active]) .chrome-tab-favicon =
+{ margin-left: auto; margin-right: auto; }
+
+.chrome-tabs-279174 .chrome-tab[is-mini][active] .chrome-tab-favicon { disp=
+lay: none; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-title { color: rgb(95, 99, 104)=
+; flex: 1 1 0%; margin-left: 4px; mask-image: linear-gradient(90deg, rgb(0,=
+ 0, 0), rgb(0, 0, 0) calc(100% - 24px), transparent); overflow: hidden; ver=
+tical-align: top; white-space: nowrap; }
+
+.chrome-tabs-279174 .chrome-tab[is-small] .chrome-tab-title { margin-left: =
+0px; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-favicon + .chrome-tab-title, .c=
+hrome-tabs-279174 .chrome-tab[is-small] .chrome-tab-favicon + .chrome-tab-t=
+itle { margin-left: 8px; }
+
+.chrome-tabs-279174 .chrome-tab[is-mini] .chrome-tab-title, .chrome-tabs-27=
+9174 .chrome-tab[is-smaller] .chrome-tab-favicon + .chrome-tab-title { disp=
+lay: none; }
+
+.chrome-tabs-279174 .chrome-tab[active] .chrome-tab-title { color: rgb(69, =
+71, 74); }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-drag-handle { border-top-left-r=
+adius: 8px; border-top-right-radius: 8px; inset: 0px; position: absolute; }
+
+.chrome-tabs-279174 .chrome-tab .chrome-tab-close { background-image: url("=
+data:image/svg+xml;utf8,<svg xmlns=3D%27http://www.w3.org/2000/svg%27 viewB=
+ox=3D%270 0 8 8%27><path stroke=3D%27rgba%280, 0, 0, .65%29%27 stroke-linec=
+ap=3D%27square%27 stroke-width=3D%271.5%27 d=3D%27M0 0 L8 8 M8 0 L0 8%27></=
+path></svg>"); background-position: 50% center; background-repeat: no-repea=
+t; background-size: 8px 8px; border-radius: 50%; flex-grow: 0; flex-shrink:=
+ 0; height: 16px; position: relative; width: 16px; }
+
+@media (hover: hover) {
+  .chrome-tabs-279174 .chrome-tab .chrome-tab-close:hover { background-colo=
+r: rgb(232, 234, 237); }
+  .chrome-tabs-279174 .chrome-tab .chrome-tab-close:hover:active { backgrou=
+nd-color: rgb(218, 220, 224); }
+}
+
+@media not all and (hover: hover) {
+  .chrome-tabs-279174 .chrome-tab .chrome-tab-close:active { background-col=
+or: rgb(218, 220, 224); }
+}
+
+@media (hover: hover) {
+  .chrome-tabs-279174 .chrome-tab:not([active]) .chrome-tab-close:not(:hove=
+r):not(:active) { opacity: 0.8; }
+}
+
+.chrome-tabs-279174 .chrome-tab[is-smaller] .chrome-tab-close { margin-left=
+: auto; }
+
+.chrome-tabs-279174 .chrome-tab[is-mini]:not([active]) .chrome-tab-close { =
+display: none; }
+
+.chrome-tabs-279174 .chrome-tab[is-mini][active] .chrome-tab-close { margin=
+-left: auto; margin-right: auto; }
+
+@-webkit-keyframes chrome-tab-was-just-added {=20
+  100% { top: 0px; }
+}
+
+@keyframes chrome-tab-was-just-added {=20
+  100% { top: 0px; }
+}
+
+.chrome-tabs-279174.chrome-tabs-is-sorting .chrome-tab:not(.chrome-tab-is-d=
+ragging), .chrome-tabs-279174:not(.chrome-tabs-is-sorting) .chrome-tab.chro=
+me-tab-was-just-dragged { transition: transform 0.12s ease-in-out, -webkit-=
+transform 0.12s ease-in-out; }
+
+.chrome-tabs-279174 .chrome-tabs-bottom-bar-383546 { background: rgb(255, 2=
+55, 255); bottom: 0px; height: 4px; left: 0px; position: absolute; width: 1=
+00%; z-index: 10; }
+
+.chrome-tabs-optional-shadow-below-bottom-bar-787957 { background-image: ur=
+l("data:image/svg+xml;utf8,<svg xmlns=3D%27http://www.w3.org/2000/svg%27 wi=
+dth=3D%271%27 height=3D%271%27 viewBox=3D%270 0 1 1%27><rect x=3D%270%27 y=
+=3D%270%27 width=3D%271%27 height=3D%271%27 fill=3D%27rgba%280, 0, 0, .17%2=
+9%27></rect></svg>"); background-position: 0px 0px; background-repeat: repe=
+at-x; background-size: 1px 1px; height: 1px; position: relative; width: 100=
+%; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and=
+ (min-device-pixel-ratio:2), only screen and (min-resolution: 192dpi), only=
+ screen and (min-resolution: 2dppx) {
+  .chrome-tabs-optional-shadow-below-bottom-bar-787957 { background-image: =
+url("data:image/svg+xml;utf8,<svg xmlns=3D%27http://www.w3.org/2000/svg%27 =
+width=3D%272%27 height=3D%272%27 viewBox=3D%270 0 2 2%27><rect x=3D%270%27 =
+y=3D%270%27 width=3D%272%27 height=3D%271%27 fill=3D%27rgba%280, 0, 0, .27%=
+29%27></rect></svg>"); }
+}
+
+.chrome-tabs-279174.chrome-tabs-dark-theme { background: rgb(32, 33, 36); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab-dividers=
+::after, .chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab=
+-dividers::before { background: rgb(74, 77, 81); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab-backgrou=
+nd > svg .chrome-tab-geometry { fill: rgb(41, 43, 46); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab[active] .chrome-tab-=
+background > svg .chrome-tab-geometry { fill: rgb(50, 54, 57); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab-title { =
+color: rgb(156, 161, 167); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab[active] .chrome-tab-=
+title { color: rgb(241, 243, 244); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab-close { =
+background-image: url("data:image/svg+xml;utf8,<svg xmlns=3D%27http://www.w=
+3.org/2000/svg%27 viewBox=3D%270 0 8 8%27><path stroke=3D%27rgba%28154, 160=
+, 166, .8%29%27 stroke-linecap=3D%27square%27 stroke-width=3D%271.5%27 d=3D=
+%27M0 0 L8 8 M8 0 L0 8%27></path></svg>"); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab-close:ho=
+ver { background-color: rgb(95, 99, 104); background-image: url("data:image=
+/svg+xml;utf8,<svg xmlns=3D%27http://www.w3.org/2000/svg%27 viewBox=3D%270 =
+0 8 8%27><path stroke=3D%27rgba%28255, 255, 255, .7%29%27 stroke-linecap=3D=
+%27square%27 stroke-width=3D%271.5%27 d=3D%27M0 0 L8 8 M8 0 L0 8%27></path>=
+</svg>"); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tab .chrome-tab-close:ho=
+ver:active { background-color: rgb(128, 134, 139); background-image: url("d=
+ata:image/svg+xml;utf8,<svg xmlns=3D%27http://www.w3.org/2000/svg%27 viewBo=
+x=3D%270 0 8 8%27><path stroke=3D%27rgba%28255, 255, 255, .9%29%27 stroke-l=
+inecap=3D%27square%27 stroke-width=3D%271.5%27 d=3D%27M0 0 L8 8 M8 0 L0 8%2=
+7></path></svg>"); }
+
+.chrome-tabs-279174.chrome-tabs-dark-theme .chrome-tabs-bottom-bar-383546 {=
+ background: rgb(50, 54, 57); }
+
+:root { --browser-icon-color: #5f6368; --gray-text: #555; --gray-border: #7=
+77; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Hel=
+vetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI=
+ Symbol"; vertical-align: baseline; }
+
+a { color: rgb(151, 123, 0); transition: 0.2s; }
+
+a:hover { color: rgb(207, 169, 0); }
+
+.browser-827559 { display: flex; flex-direction: column; height: 100%; }
+
+.chrome-tabs-279174 { padding-right: 50px; }
+
+.chrome-tabs-279174 .chrome-tab:last-child .chrome-tab-dividers::after { op=
+acity: 1; }
+
+.chrome-tabs-newtab-btn-898491 { position: absolute; top: 0px; }
+
+.chrome-tabs-newtab-btn-898491 svg { height: 30px; margin-left: 12px; margi=
+n-top: 10px; width: 30px; }
+
+#root, body, html { height: 100%; }
+
+body { margin: 0px; }
+------MultipartBoundary--cqfBKsUffeCAX1DRVLrIJXjotXIgXNcogZ6kIo1vlo------
